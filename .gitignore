@@ -1,0 +1,6 @@
+#Ignore os arquivos e pastas
+
+node_modules
+
+*.zip
+*.rar

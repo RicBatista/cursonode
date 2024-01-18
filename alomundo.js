@@ -1,1 +1,1 @@
-alomundo
+console.log("alomundo");
